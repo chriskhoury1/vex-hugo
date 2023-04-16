@@ -2,8 +2,11 @@
 banner:
   enable: true
   title: From A to Z, we've got it all bundled up
-  content: AUghhh
-  image: images/watch.png
+  content: Welcome to our one-stop-shop where you'll find everything you need, from
+    A to Z, bundled up in one convenient place. With our amazing selection of bundles,
+    you'll save time and money while getting all the items you want. So why wait?
+    Browse our site and discover the endless possibilities of our bundled offerings!
+  image: images/bundles-pic.png
   button:
     enable: true
     label: Browse All Products
